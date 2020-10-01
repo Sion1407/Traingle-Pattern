@@ -6,7 +6,7 @@ using namespace std;
 // Function to demonstrate printing pattern
 void triangle(int n)
 {
-    // number of spaces
+    // number for the spaces
     int k = 2*n - 2;
 
     // outer loop to handle number of rows
